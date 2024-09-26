@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dimalit778.Dimalit778"/>
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&letterSpacing=2px&duration=4000&color=B2F722&center=true&vCenter=true&width=500&height=150&lines=Hello+%F0%9F%91%8B;I'm+Dima+litvinov" alt="Typing SVG" /></a>
-<p align="left">Software developer</p>
+
 
 ###
-
+<p align="left">Software developer</p>
 <p align="left">🔭 I’m currently working on League Champion App<br><br>🌱 I’m currently learning React native</p>
 
 ###
